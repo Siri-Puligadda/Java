@@ -17,10 +17,9 @@ public class RemoveDuplicateCharac {
 	               break;
 	            }
 	         }
-
 	      }
 	      char[] arr = str2.toCharArray();
 	      for (char e : arr)
-	         System.out.print(e + " "); 
+	        System.out.print(e + " "); 
 	}
 }
